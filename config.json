@@ -1,0 +1,235 @@
+{
+  "battery_capacity_kwh": 27,
+  "csv_file": "med_eq.csv",
+  "simulation_speed": 0,
+  "use_case_config": {
+    "Huntsman Distributed Clinical Trials Chemotherapy": {
+      "duration_hours": 8,
+      "devices": [
+        "Vital Signs/BP Machine",
+        "Exam Chair",
+        "CBC Analyzer",
+        "Chem Analyzer",
+        "Centrifuge",
+        "Ultrasound",
+        "X-Ray",
+        "Chemo Infusion Pump",
+        "Chemo Infusion Pump",
+        "Patient Monitor Wall Unit",
+        "Portable O2 Concentrator",
+        "Urine Analyzer",
+        "EKG/ECG Machine",
+        "Diabetes Analyzer",
+        "PCR Analyzer",
+        "Surgical Light",
+        "Electrosurgical Unit",
+        "iPad",
+        "iPad Headphones",
+        "Surgical Light",
+        "Patient Monitor Wall Unit",
+        "Exam Chair",
+        "Portable O2 Concentrator",
+        "Cardia Assays Analyzer"
+      ]
+    },
+    "Huntsman At Home Chemotheraphy": {
+      "duration_hours": 8,
+      "devices": [
+        "Vital Signs/BP Machine",
+        "Exam Chair",
+        "Urine Analyzer",
+        "Ultrasound",
+        "X-Ray",
+        "Patient Monitor W/ 3-5 Lead EKG",
+        "O2 Concentrator",
+        "Chemo Infusion Pump",
+        "Chemo Infusion Pump",
+        "Centrifuge",
+        "Exam Chair",
+        "iPad",
+        "iPad Headphones",
+        "EKG/ECG Machine",
+        "CBC Analyzer",
+        "Chem Analyzer",
+        "Diabetes Analyzer",
+        "PCR Analyzer",
+        "Surgical Light",
+        "Electrosurgical Unit",
+        "Cardia Assays Analyzer",
+        "ESR Analyzer",
+        "Surgical Light",
+        "Patient Monitor W/ 3-5 Lead EKG"
+      ]
+    },
+    "Homeward Chronic Wound Care": {
+      "duration_hours": 8,
+      "devices": [
+        "Vital Signs/BP Machine",
+        "Exam Chair",
+        "CBC Analyzer",
+        "Chem Analyzer",
+        "Centrifuge",
+        "X-Ray",
+        "Ultrasound",
+        "Multi-Therapy Infusion Pump",
+        "Wound Vacuum",
+        "EKG/ECG Machine",
+        "O2 Concentrator",
+        "Urine Analyzer",
+        "Patient Monitor Wall Unit",
+        "Diabetes Analyzer",
+        "PCR Analyzer",
+        "Test Tube Rocker Rack",
+        "Surgical Light",
+        "Suction Unit",
+        "Electrosurgical Unit",
+        "Cardia Assays Analyzer",
+        "ESR Analyzer"
+      ]
+    },
+    "Homeward Pre/Post-Natal Care": {
+      "duration_hours": 8,
+      "devices": [
+        "Vital Signs/BP Machine",
+        "Exam Chair",
+        "CBC Analyzer",
+        "Chem Analyzer",
+        "Ultrasound",
+        "Multi-Therapy Infusion Pump",
+        "Centrifuge",
+        "Surgical Light",
+        "Wound Vacuum",
+        "Patient Monitor Wall Unit",
+        "O2 Concentrator",
+        "Urine Analyzer",
+        "Test Tube Rocker Rack",
+        "Diabetes Analyzer",
+        "PCR Analyzer",
+        "Suction Unit",
+        "Electrosurgical Unit",
+        "Cardia Assays Analyzer",
+        "ESR Analyzer",
+        "Nebulizer"
+      ]
+    },
+    "Ariadne RMOH": {
+      "duration_hours": 8,
+      "devices": [
+        "Vital Signs/BP Machine",
+        "Exam Chair",
+        "EKG/ECG Machine",
+        "Patient Monitor W/ 3-5 Lead EKG",
+        "Chem Analyzer",
+        "Ultrasound",
+        "X-Ray",
+        "ESR Analyzer",
+        "Nebulizer",
+        "Compounding Robot",
+        "Chemo Infusion Pump",
+        "O2 Concentrator",
+        "Urine Analyzer",
+        "CBC Analyzer",
+        "Diabetes Analyzer",
+        "PCR Analyzer",
+        "Centrifuge",
+        "Test Tube Rocker Rack",
+        "Surgical Light",
+        "Suction Unit",
+        "Electrosurgical Unit"
+      ]
+    },
+    "Ariadne RHAMH": {
+      "duration_hours": 8,
+      "devices": [
+        "Vital Signs/BP Machine",
+        "Exam Chair",
+        "CBC Analyzer",
+        "Centrifuge",
+        "Ultrasound",
+        "X-Ray",
+        "Multi-Therapy Infusion Pump",
+        "Surgical Light",
+        "O2 Concentrator",
+        "Patient Monitor Wall Unit",
+        "Urine Analyzer",
+        "Chem Analyzer",
+        "Diabetes Analyzer",
+        "PCR Analyzer",
+        "Test Tube Rocker Rack",
+        "Suction Unit",
+        "Electrosurgical Unit",
+        "Nebulizer",
+        "Cardia Assays Analyzer",
+        "ESR Analyzer",
+        "EKG/ECG Machine"
+      ]
+    },
+    "Huntsman Malnutrition or Failure to Thrive": {
+      "duration_hours": 8,
+      "devices": [
+        "Vital Signs/BP Machine",
+        "Exam Table",
+        "CBC Analyzer",
+        "Centrifuge",
+        "Ultrasound",
+        "X-Ray",
+        "X-Ray Console",
+        "Multi-Therapy Infusion Pump",
+        "EKG/ECG Machine"
+      ]
+    },
+    "Huntsman GI Complications": {
+      "duration_hours": 8,
+      "devices": [
+        "Vital Signs/BP Machine",
+        "Exam Table",
+        "CBC Analyzer",
+        "Centrifuge",
+        "Ultrasound",
+        "X-Ray",
+        "X-Ray Console",
+        "Multi-Therapy Infusion Pump",
+        "GI/Respiratory Analyzer"
+      ]
+    },
+    "Hunstman Neutropenic Fever or Infection": {
+      "duration_hours": 8,
+      "devices": [
+        "Vital Signs/BP Machine",
+        "Exam Table",
+        "CBC Analyzer",
+        "Centrifuge",
+        "Ultrasound",
+        "X-Ray",
+        "X-Ray Console",
+        "Multi-Therapy Infusion Pump",
+        "EKG/ECG Machine"
+      ]
+    },
+    "test_case": {
+      "duration_hours": 8,
+      "devices": [
+        "Patient Monitor Wall Unit"
+      ]
+    },
+    "always_on_only": {
+      "duration_hours": 8,
+      "devices": [
+        "CISCO Maraki MR46 (WAP)",
+        "Dell PowerEdge R750 (Server)",
+        "Ericsson CradlePoint E3000",
+        "Freezer",
+        "HVAC",
+        "Mobile Mark LTMWG942",
+        "Netgear M4300 (Switch)",
+        "Refrigerator (Meds)",
+        "Refrigerator (Specimens)",
+        "Security Camera",
+	"EHR Access Workstation",
+        "Blanket Warmer",
+        "Starlink Flat High Perfomance"
+      ]
+    }
+  },
+  "selected_scenario": "always_on_only"
+}

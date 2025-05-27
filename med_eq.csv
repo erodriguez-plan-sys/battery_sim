@@ -1,0 +1,46 @@
+Device,Power_W,Battery_Wh,Time_min,battery_powered,always_on
+Cardia Assays Analyzer,400,0,10,False,False
+CBC Analyzer,1000,0,1,False,False
+Centrifuge,100,0,15,False,False
+Chem Analyzer,120,0,4,False,False
+Chemo Infusion Pump,150,0,240,True,False
+CISCO Maraki MR46 (WAP),30,0,0,False,True
+Compounding Robot,80,0,15,False,False
+Dell PowerEdge R750 (Server),1170,0,0,False,True
+Diabetes Analyzer,200,0,4,False,False
+EHR Access Workstation,500,0,0,False,True
+EKG/ECG Machine,35,190,15,True,False
+Electrosurgical Unit,300,0,60,False,False
+Ericsson CradlePoint E3000,22,0,0,False,True
+ESR Analyzer,60,0,10,False,False
+Exam Chair,24,0,5,False,False
+Freezer,149.5,0,0,False,True
+HVAC,1237.5,0,0,False,True
+iPad,3,28.6,195,True,False
+iPad Headphones,3,90,180,True,False
+Mobile Mark LTMWG942,10,0,0,False,True
+Multi-Therapy Infusion Pump,125,0,240,True,False
+Nebulizer,100,0,30,False,False
+Netgear M4300 (Switch),250,0,0,False,True
+O2 Concentrator,460,0,240,False,False
+Patient Lift Assist Machine,132.5,55.2,0,False,False
+Patient Monitor W/ 3-5 Lead EKG,9.4,0,200,False,False
+Patient Monitor Wall Unit,150,0,240,False,False
+PCR Analyzer,135,0,45,False,False
+Portable Lab Analyzer,30,20,4,True,False
+Portable O2 Concentrator,8,0,240,True,False
+Refrigerator (Meds),69,0,0,False,True
+Refrigerator (Specimens),69,0,0,False,True
+Security Camera,100,0,0,False,True
+Starlink Flat High Perfomance,150,0,0,False,True
+Suction Unit,24,0,60,False,False
+Surgical Light,54,0,15,False,False
+Test Tube Rocker Rack,6,0,10,False,False
+Ultrasound,200,0,30,True,False
+Ultrasound Probe Cleaner,1350,0,15,False,False
+Urine Analyzer,400,0,10,False,False
+Wound Vacuum,57.75,1350,60,True,False
+X-Ray,2500,700,0.5,True,False
+X-Ray Console,200,0,60,False,False
+X-Ray Panel,200,0,0.5,False,False
+Blanket Warmer,600,0,0,False,True
